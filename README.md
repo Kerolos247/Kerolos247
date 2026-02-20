@@ -31,14 +31,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Kerolos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kerolos247&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kerolos247&layout=compact&theme=radical)
-
----
-
 ## 🎯 Current Goals
 
 - Improve system design skills  
