@@ -1,9 +1,9 @@
 # Hi 👋 I'm Kerolos Adel
 
 💻 **Backend Software Engineer & Senior Computer Science Student**  
-🚀 Focused on Enterprise Backend Architecture, Scalable Systems, and AI Integration.
+🚀 Focused on Backend Architecture, clean code, and AI Integration.
 
-I engineer production-grade backend systems and RESTful APIs, with a deep focus on architectural patterns, maintainability, and containerized environments. I have practical experience building layered applications, implementing complex business logic, and optimizing database performance.
+I build backend systems and RESTful APIs with a strong focus on architectural patterns, maintainability, and containerized environments. I have practical experience building structured layered applications, implementing business logic, and handling database performance.
 
 ---
 
@@ -31,21 +31,21 @@ I engineer production-grade backend systems and RESTful APIs, with a deep focus 
 
 ## 🏛️ Architectural & Core Focus
 
-* **Enterprise Design:** Implementing **Clean Architecture**, **SOLID Principles**, and design patterns (Repository & Unit of Work).
+* **Design Patterns:** Implementing **Clean Architecture**, **SOLID Principles**, and patterns like Repository & Unit of Work.
 * **Distributed Systems:** Designing foundational **Microservices Architecture** and service communication.
 * **Containerization:** Containerizing multi-service backend applications using **Docker**.
-* **Database Optimization:** Writing efficient queries, handling data migrations, and working with both SQL Server and PostgreSQL.
-* **AI & NLP Integration:** Building production-style local **Modular RAG** pipelines, fine-tuning LLMs, and integrating semantic search.
+* **Database Management:** Writing efficient queries, handling data migrations, and working with both SQL Server and PostgreSQL.
+* **AI & NLP Integration:** Building local **Modular RAG** pipelines, fine-tuning LLMs, and integrating semantic search.
 
 ---
 
 ## 🎯 Current Goals & Focus
 
-* Deepening expertise in advanced Microservices patterns and system design scalability.
-* Expanding AI-driven backend capabilities and integrating vector databases.
+* Deepening expertise in Microservices patterns and software design.
+* Expanding AI-driven backend features and integrating vector databases.
 * Building multi-tenant SaaS applications.
 
 ---
 
 ⭐ **Always engineering. Always optimizing.**  
-🚀 Dedicated to writing clean, maintainable, and highly performant backend code.
+🚀 Dedicated to writing clean, maintainable, and well-structured backend code.
