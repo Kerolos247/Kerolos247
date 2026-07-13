@@ -1,11 +1,11 @@
 # Hi 👋 I'm Kerolos Adel
 
 💻 **Backend Software Engineer & Senior Computer Science Student**
-🚀 Passionate about Backend Engineering, Distributed Systems, and AI Integration.
+🚀 Passionate about Backend Development, Software Architecture, and AI Integration.
 
-I build scalable backend systems with **ASP.NET Core**, focusing on clean architecture, maintainable code, secure APIs, and high-performance business logic. I enjoy designing modular applications, integrating distributed services, and solving complex backend challenges.
+I build backend applications using **ASP.NET Core**, focusing on clean architecture, maintainable code, secure RESTful APIs, and business logic. I enjoy designing modular applications, improving backend performance, and solving real-world software challenges.
 
-Alongside backend development, I build and integrate AI-powered services such as **RAG pipelines**, **NLP applications**, and **semantic search** through containerized microservices, bringing AI capabilities into real-world software products.
+Alongside backend development, I build and integrate AI-powered features such as **RAG pipelines**, **NLP services**, **semantic caching**, and **vector search** using **Qdrant**, connecting AI microservices with backend applications through REST APIs.
 
 ---
 
@@ -24,6 +24,7 @@ Alongside backend development, I build and integrate AI-powered services such as
 ![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-black?style=for-the-badge)
 ![Microservices](https://img.shields.io/badge/-Microservices-00599C?style=for-the-badge)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+![Qdrant](https://img.shields.io/badge/-Qdrant-FF6B6B?style=for-the-badge)
 
 ### 🐳 DevOps & Tools
 
@@ -36,20 +37,20 @@ Alongside backend development, I build and integrate AI-powered services such as
 
 ## 🏛️ Engineering Focus
 
-* **Backend Engineering:** Designing RESTful APIs, implementing business logic, authentication, authorization, concurrency control, and performance optimization.
-* **Software Architecture:** Applying **Clean Architecture**, **SOLID Principles**, and design patterns to build modular and maintainable systems.
-* **Distributed Systems:** Building and integrating **Dockerized Microservices** through REST APIs while keeping AI workloads isolated from transactional systems.
-* **Databases:** Designing relational data models, optimizing SQL queries, indexing, and working with **SQL Server** and **Entity Framework Core**.
-* **AI Integration:** Integrating **RAG pipelines**, **NLP services**, **semantic caching**, and **vector search** into backend applications.
+* **Backend Development:** Building RESTful APIs, implementing business logic, authentication, authorization, concurrency control, and backend performance optimization.
+* **Software Architecture:** Applying **Clean Architecture**, **SOLID Principles**, and design patterns to build modular and maintainable applications.
+* **Microservices:** Building and integrating **Dockerized microservices** with backend applications through REST APIs.
+* **Databases:** Working with **SQL Server**, **Entity Framework Core**, query optimization, indexing, and relational database design.
+* **AI Integration:** Integrating **RAG pipelines**, **NLP services**, **semantic caching**, **Qdrant vector databases**, and semantic search into backend applications.
 
 ---
 
 ## 🎯 Current Focus
 
-* Building enterprise-grade backend systems with **ASP.NET Core**.
-* Deepening expertise in **Microservices**, distributed systems, and scalable architectures.
-* Developing AI-powered backend solutions by integrating **RAG**, **NLP**, and vector databases into production-oriented applications.
+* Advancing my expertise in **ASP.NET Core** backend development.
+* Learning more about **Microservices Architecture** and software design.
+* Building AI-powered backend applications using **RAG**, **Qdrant**, and **Dockerized microservices**.
 
 ---
 
-⭐ **Building reliable backend systems with clean architecture, scalable design, and practical AI integration.**
+⭐ **Passionate about building clean, maintainable backend applications and integrating practical AI solutions into real-world software.**
