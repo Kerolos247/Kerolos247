@@ -39,6 +39,6 @@ Alongside backend development, I build and integrate AI-powered features such as
 
 * **Backend Development:** Building RESTful APIs, implementing business logic, authentication, authorization, concurrency control, and backend performance optimization.
 * **Software Architecture:** Applying **Clean Architecture**, **SOLID Principles**, and design patterns to build modular and maintainable applications.
-* **Microservices:** Building and integrating **Dockerized microservices** with backend applications through REST APIs.
+* **Microservices:** Building and integrating **Dockerized FastAPI microservices** with backend applications through REST APIs.
 * **Databases:** Working with **SQL Server**, **Entity Framework Core**, query optimization, indexing, and relational database design.
 * **AI Integration:** Integrating **RAG pipelines**, **NLP services**, **semantic caching**, **Qdrant vector databases**, and semantic search into backend applications.
