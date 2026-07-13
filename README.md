@@ -42,15 +42,3 @@ Alongside backend development, I build and integrate AI-powered features such as
 * **Microservices:** Building and integrating **Dockerized microservices** with backend applications through REST APIs.
 * **Databases:** Working with **SQL Server**, **Entity Framework Core**, query optimization, indexing, and relational database design.
 * **AI Integration:** Integrating **RAG pipelines**, **NLP services**, **semantic caching**, **Qdrant vector databases**, and semantic search into backend applications.
-
----
-
-## 🎯 Current Focus
-
-* Advancing my expertise in **ASP.NET Core** backend development.
-* Learning more about **Microservices Architecture** and software design.
-* Building AI-powered backend applications using **RAG**, **Qdrant**, and **Dockerized microservices**.
-
----
-
-⭐ **Passionate about building clean, maintainable backend applications and integrating practical AI solutions into real-world software.**
