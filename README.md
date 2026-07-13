@@ -1,11 +1,11 @@
 # Hi 👋 I'm Kerolos Adel
 
 💻 **Backend Software Engineer & Senior Computer Science Student**
-🚀 Passionate about Backend Development, Software Architecture, and AI Integration.
+🚀 Passionate about Backend Development, Software Architecture, and practical AI integration.
 
-I build backend applications using **ASP.NET Core**, focusing on clean architecture, maintainable code, secure RESTful APIs, and business logic. I enjoy designing modular applications, improving backend performance, and solving real-world software challenges.
+I build backend applications using **ASP.NET Core**, with a focus on clean architecture, secure RESTful APIs, maintainable code, and business logic. I enjoy designing modular applications, optimizing backend performance, and solving real-world software challenges.
 
-Alongside backend development, I build and integrate AI-powered features such as **RAG pipelines**, **NLP services**, **semantic caching**, and **vector search** using **Qdrant**, connecting AI microservices with backend applications through REST APIs.
+Alongside backend development, I build and integrate AI-powered features such as **RAG pipelines**, **NLP services**, **semantic caching**, and **vector search** using **Qdrant** by integrating **Dockerized FastAPI microservices** with backend applications through REST APIs.
 
 ---
 
